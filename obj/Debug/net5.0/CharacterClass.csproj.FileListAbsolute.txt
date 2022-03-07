@@ -1,0 +1,16 @@
+C:\Users\k.patel61\Desktop\CharacterClass\bin\Debug\net5.0\CharacterClass.exe
+C:\Users\k.patel61\Desktop\CharacterClass\bin\Debug\net5.0\CharacterClass.deps.json
+C:\Users\k.patel61\Desktop\CharacterClass\bin\Debug\net5.0\CharacterClass.runtimeconfig.json
+C:\Users\k.patel61\Desktop\CharacterClass\bin\Debug\net5.0\CharacterClass.runtimeconfig.dev.json
+C:\Users\k.patel61\Desktop\CharacterClass\bin\Debug\net5.0\CharacterClass.dll
+C:\Users\k.patel61\Desktop\CharacterClass\bin\Debug\net5.0\ref\CharacterClass.dll
+C:\Users\k.patel61\Desktop\CharacterClass\bin\Debug\net5.0\CharacterClass.pdb
+C:\Users\k.patel61\Desktop\CharacterClass\obj\Debug\net5.0\CharacterClass.csproj.AssemblyReference.cache
+C:\Users\k.patel61\Desktop\CharacterClass\obj\Debug\net5.0\CharacterClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k.patel61\Desktop\CharacterClass\obj\Debug\net5.0\CharacterClass.AssemblyInfoInputs.cache
+C:\Users\k.patel61\Desktop\CharacterClass\obj\Debug\net5.0\CharacterClass.AssemblyInfo.cs
+C:\Users\k.patel61\Desktop\CharacterClass\obj\Debug\net5.0\CharacterClass.csproj.CoreCompileInputs.cache
+C:\Users\k.patel61\Desktop\CharacterClass\obj\Debug\net5.0\CharacterClass.dll
+C:\Users\k.patel61\Desktop\CharacterClass\obj\Debug\net5.0\ref\CharacterClass.dll
+C:\Users\k.patel61\Desktop\CharacterClass\obj\Debug\net5.0\CharacterClass.pdb
+C:\Users\k.patel61\Desktop\CharacterClass\obj\Debug\net5.0\CharacterClass.genruntimeconfig.cache
