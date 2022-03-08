@@ -15,28 +15,28 @@ namespace CharacterClass
         }
     }
     public class Character{
-        private string firstName;
-        private string firstcp;
-        private string secondcp;
-         private int levelnum;
-        public Character(String name, string phrase1, string phrase2, int level){
-            firstName = name;
-            firstcp = phrase1;
-            secondcp = phrase2;
-            levelnum = level;
+        private string name;
+        private string phrase1;
+        private string phrase2;
+        private int level;
+        public Character(string name, string phrase1, string phrase2, int level){
+            this.name = name;
+            this.phrase1 = phrase1;
+            this.phrase2 = phrase2;
+            this.level = level;
         }
 
         public void speak(int phraseNum){
             if (phraseNum ==1){
-                Console.Write(this.firstcp);
+                Console.Write(this.phrase1);
             }else if (phraseNum == 2){
-                Console.Write(this.secondcp);
+                Console.Write(this.phrase2);
             }
 
         }
 
         public void setLevel(int newLevel){
-            this.levelnum = newLevel;
+            this.level = newLevel;
         }
     }
 }
